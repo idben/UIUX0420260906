@@ -2,6 +2,10 @@ body {
   background-color: #dfe1ee;
 }
 
+.trs1 {
+  transition: all 0.2s;
+}
+
 .h25px {
   height: 25px;
 }
@@ -32,6 +36,10 @@ body {
 
 .h300px {
   height: 300px;
+}
+
+.w300px {
+  width: 300px;
 }
 
 .w400px {
